@@ -228,32 +228,28 @@ Example:
 
 ![Healthcare Dashboard](images/dashboard.png)
 
-# 📁 Project Structure
+## 📁 Project Structure
 
-Healthcare-Patient-Analytics/
-
-├── Dataset/
-
-│   ├── healthcare_patient_analytics.csv
+```text
+Healthcare-Patient-Analytics
 │
-├── Python/
-
-│   ├── Data_Cleaning.ipynb
-
-│   ├── EDA.ipynb
+├── COLAB
+│   └── Healthcare_Patient_Analytics.ipynb
 │
-├── PowerBI/
-
-│   ├── Healthcare Dashboard.pbix
+├── Dashboard
+│   └── Healthcare_Dashboard.png
 │
-├── Images/
-
-│   ├── dashboard.png
+├── Dataset
+│   └── healthcare_patient_analytics.csv
 │
-├── README.md
+├── Documentation
+│   └── Healthcare_Analytics_Final_Report.pdf
 │
-└── requirements.txt
-
+├── Power_BI
+│   └── Healthcare_Dashboard.pbix
+│
+└── README.md
+```
 # ⭐ Tools & Skills Demonstrated
 
 Data Cleaning
