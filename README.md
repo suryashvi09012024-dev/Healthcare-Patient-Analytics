@@ -232,38 +232,26 @@ Example:
 
 Healthcare-Patient-Analytics/
 
+Healthcare-Patient-Analytics/
 │
-
 ├── Dataset/
-
 │   ├── healthcare_patient_analytics.csv
-
 │
-
 ├── Python/
-
 │   ├── Data_Cleaning.ipynb
-
 │   ├── EDA.ipynb
-
 │
-
+├── SQL/
+│   ├── Healthcare_SQL.sql
+│
 ├── PowerBI/
-
 │   ├── Healthcare Dashboard.pbix
-
 │
-
 ├── Images/
-
 │   ├── dashboard.png
-
 │
-
 ├── README.md
-
 │
-
 └── requirements.txt
 
 # ⭐ Tools & Skills Demonstrated
