@@ -267,3 +267,22 @@ Python Programming
 Healthcare Analytics
 Power BI
 Microsoft Excel
+
+## 👩‍💻 Author
+
+**Surya R**
+
+🎯 Aspiring Data Analyst
+
+### 💻 Skills
+
+- Microsoft Excel
+- SQL
+- Python
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+⭐ **If you found this project useful, feel free to give it a Star!**
