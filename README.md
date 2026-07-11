@@ -224,9 +224,8 @@ Automated data refresh using Power BI Service.
 
 (Add your Power BI dashboard screenshot here.)
 
-Example:
+<img width="1335" height="743" alt="Screenshot 2026-07-08 223207" src="https://github.com/user-attachments/assets/c5cdcc58-e5d6-4994-b49e-391cc055a7ac" />
 
-![Healthcare Dashboard](images/dashboard.png)
 
 ## 📁 Project Structure
 
